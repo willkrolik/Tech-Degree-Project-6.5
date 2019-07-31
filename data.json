@@ -1,0 +1,55 @@
+{
+    "projects": [
+      {
+        "id": 0,
+        "project_name": "Random Quote Generator",
+        "description":
+          "A random quote generator that pulls different quotes from Spiderman:Into the Spiderverse when the button is clicked",
+        "technologies": ["HTML", "JS", "CSS"],
+        "live_link": "https://willkrolik.github.io/Tech-Degree-Project-1/",
+        "github_link": "https://github.com/willkrolik/Tech-Degree-Project-1",
+        "image_urls": ["/static/img/Project.1.1.jpg", "/static/img/Project.1.2.jpg"]
+      },
+      {
+        "id": 1,
+        "project_name": "Employee Directory: List",
+        "description":
+          "An Employee directory that has been parsed into pages on ten.",
+        "technologies": ["HTML", "Vanilla JS", "CSS", "Jquery"],
+        "live_link": "https://willkrolik.github.io/Tech-Degree-Project-2/",
+        "github_link": "https://github.com/willkrolik/Tech-Degree-Project-2",
+        "image_urls": ["/static/img/Project.2.1.jpg", "/static/img/Project.2.2.jpg"]
+      },
+      {
+        "id": 2,
+        "project_name": "Developer Order Sheet",
+        "description":
+          "An order from that validates different fields with regex and changes dynamically based on user input",
+        "technologies": ["HTML", "JS", "CSS", "API", "Jquery", "RegEX"],
+        "live_link": "https://willkrolik.github.io/Tech-Degree-Project-3/",
+        "github_link": "https://github.com/willkrolik/Tech-Degree-Project-3",
+        "image_urls": ["/static/img/Project.3.1.jpg", "/static/img/Project.3.2.jpg"]
+      },
+      {
+        "id": 3,
+        "project_name": "Word Guessing Game",
+        "description":
+          "A guessing game where the user needs to choose letters to reveal a hidden phrase, similar to hangman",
+        "technologies": ["HTML", "Vanilla JS", "CSS", "Jquery"],
+        "live_link": "https://willkrolik.github.io/Tech-Degree-Project-4/",
+        "github_link": "https://github.com/willkrolik/Tech-Degree-Project-4",
+        "image_urls": ["/static/img/Project.4.1.jpg", "/static/img/Project.4.2.jpg"]
+      },
+      {
+        "id": 4,
+        "project_name": "Employee Directory: API",
+        "description":
+          "An employee directory that pulls from the random person API to dyanmically create a page, clicking on a person supplies more information on them.",
+        "technologies": ["HTML", "Vanilla JS", "CSS", "APIs", "Jquery"],
+        "live_link": "https://willkrolik.github.io/Tech-Degree-Project-5/",
+        "github_link": "https://github.com/willkrolik/Tech-Degree-Project-5",
+        "image_urls": ["/static/img/Project.5.1.jpg", "/static/img/Project.5.2.jpg"]
+      }
+    ]
+  }
+  

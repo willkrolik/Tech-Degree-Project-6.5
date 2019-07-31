@@ -1,0 +1,46 @@
+extends layout.pug
+
+block content 
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  article.grid-container.portfolio-intro.portfolio-project
+    .grid-x
+      .cell.small-6.medium-9.large-9
+
+        //- Name >
+        h1 Will Krolik
+
+        //- Title >
+        p.lead.text-light
+          | Full Stack JavaScript Developer.
+
+        //- Pitch, to do <
+        p
+            | My name is WIll and I'm current Software integration specialist making the jump to full dev.
+            | I have experience building Node and React applications and have used Javascript to automate different tasks in my current role. 
+            | I recently built a database and have connected it to Slack for easy querying.
+      .cell.portfolio-meta.small-6.medium-2.large-3
+        h6 Skills
+
+        //- skills list <
+        ul
+          li Express
+          li React
+          li JavaScript
+          li JQuery 
+          li HTML
+          li React
+        h6 Contact Info
+
+        //- contact info <
+        ul
+          li 650-515-7500
+          li willkrolik@gmail.com
+
+        //-  URLs/hrefs to link social media accounts >.
+        a.button.expanded(href='') LinkedIn
+        a.button.expanded(href='https://github.com/willkrolik') GitHub
+
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  
