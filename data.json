@@ -8,7 +8,7 @@
         "technologies": ["HTML", "JS", "CSS"],
         "live_link": "https://willkrolik.github.io/Tech-Degree-Project-1/",
         "github_link": "https://github.com/willkrolik/Tech-Degree-Project-1",
-        "image_urls": ["/static/img/Project.1.1.jpg", "/static/img/Project.1.2.jpg"]
+        "image_urls": ["/static/img/Project.1.1.jpg", "/static/img/Project.1.2.jpg","/static/img/Project.1.3.jpg" ]
       },
       {
         "id": 1,
@@ -18,7 +18,7 @@
         "technologies": ["HTML", "Vanilla JS", "CSS", "Jquery"],
         "live_link": "https://willkrolik.github.io/Tech-Degree-Project-2/",
         "github_link": "https://github.com/willkrolik/Tech-Degree-Project-2",
-        "image_urls": ["/static/img/Project.2.1.jpg", "/static/img/Project.2.2.jpg"]
+        "image_urls": ["/static/img/Project.2.1.jpg", "/static/img/Project.2.2.jpg","/static/img/Project.2.3.jpg"]
       },
       {
         "id": 2,
@@ -28,7 +28,7 @@
         "technologies": ["HTML", "JS", "CSS", "API", "Jquery", "RegEX"],
         "live_link": "https://willkrolik.github.io/Tech-Degree-Project-3/",
         "github_link": "https://github.com/willkrolik/Tech-Degree-Project-3",
-        "image_urls": ["/static/img/Project.3.1.jpg", "/static/img/Project.3.2.jpg"]
+        "image_urls": ["/static/img/Project.3.1.jpg", "/static/img/Project.3.2.jpg", "/static/img/Project.3.3.jpg"]
       },
       {
         "id": 3,
@@ -38,7 +38,7 @@
         "technologies": ["HTML", "Vanilla JS", "CSS", "Jquery"],
         "live_link": "https://willkrolik.github.io/Tech-Degree-Project-4/",
         "github_link": "https://github.com/willkrolik/Tech-Degree-Project-4",
-        "image_urls": ["/static/img/Project.4.1.jpg", "/static/img/Project.4.2.jpg"]
+        "image_urls": ["/static/img/Project.4.1.jpg", "/static/img/Project.4.2.jpg", "/static/img/Project.4.3.jpg"]
       },
       {
         "id": 4,
@@ -48,7 +48,7 @@
         "technologies": ["HTML", "Vanilla JS", "CSS", "APIs", "Jquery"],
         "live_link": "https://willkrolik.github.io/Tech-Degree-Project-5/",
         "github_link": "https://github.com/willkrolik/Tech-Degree-Project-5",
-        "image_urls": ["/static/img/Project.5.1.jpg", "/static/img/Project.5.2.jpg"]
+        "image_urls": ["/static/img/Project.5.1.jpg", "/static/img/Project.5.2.jpg", "/static/img/Project.5.3.jpg"]
       }
     ]
   }

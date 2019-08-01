@@ -22,4 +22,8 @@ block content
         a.button.expanded(href=`${data.projects[id].live_link}`) Live Demo
         a.button.expanded(href=`${data.projects[id].github_link}`) GitHub Repo
     
-    img.image(src=`${data.projects[id].image_url[0]}`)
+    //- p #{data.projects[id].image_urls[0]}
+    img.image(src=`${data.projects[id].image_urls[0]}`)
+    img.image(src=`${data.projects[id].image_urls[1]}`)
+    img.image(src=`${data.projects[id].image_urls[2]}`)
+    
